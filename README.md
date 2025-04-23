@@ -32,8 +32,8 @@ Avant de commencer, assurez-vous d’avoir :
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone <URL_DU_REPO>
-   cd <nom_du_dossier_du_projet>
+   git clone https://github.com/FredyHoundayi/Wikipedia-translation-into-local-languages/tree/main
+  
    ```
 
 2. **Créer et activer un environnement virtuel :**
@@ -63,23 +63,23 @@ Avant de commencer, assurez-vous d’avoir :
 
 ### Étape 1 : Collecte des liens Wikipédia
 ```bash
-python scripts/wikipedia_all_articlelinks_getter_en.py
+python wikipedia_all_articlelinks_getter_en.py
 ```
 
 ### Étape 2 : Extraction du contenu HTML
 ```bash
-python scripts/scraper.py
+python scraper.py
 ```
 
 ### Étape 3 : Traduction vers le Yoruba
 ```bash
-python scripts/translator_yoru.py
+python translator_yoru.py
 ```
 
 ### Étape 4 : Traduction vers le Fon et Ewe
 ```bash
-python scripts/translator_fon.py
-python scripts/translator_ewe.py
+python translator_fon.py
+python translator_ewe.py
 ```
 
 ---
