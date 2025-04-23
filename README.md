@@ -7,6 +7,7 @@ Ce projet vise à **traduire automatiquement l'intégralité de Wikipédia en an
 L'objectif est de **favoriser l'accès à la connaissance** dans les langues locales africaines et de contribuer à leur **valorisation numérique**.
 
 ---
+(Les fichiers de sortie sont stockés sur Google Drive pour leur taille importante. Vous pouvez y accéder  ici : https://drive.google.com/drive/folders/1YT56N9i0roOZ-7-ftK7HQlR1EcEvd4pI?usp=sharing)
 
 ## ✨ Fonctionnalités
 
@@ -85,7 +86,8 @@ python translator_ewe.py
 ---
 
 ## 📁 Fichiers de sortie
-
+Les fichiers de sortie sont stockés sur Google Drive pour leur taille importante. Vous pouvez y accéder  ici : 
+https://drive.google.com/drive/folders/1YT56N9i0roOZ-7-ftK7HQlR1EcEvd4pI?usp=sharing
 - `wikipedia_articles_links(en).csv` : Liens collectés.
 - `liensetarticles.csv` : Contenu extrait des articles.
 - `translation_yoruba.csv` : Traductions en Yoruba.
@@ -94,10 +96,10 @@ python translator_ewe.py
 
 ---
 
-## 📚 Documentation
+## 📚 Documentation complete detaillée
 
 Pour plus de détails consultez la documentation complète du projet ici :  
-➡️ [`docs/DOCUMENTATION.md`](docs/DOCUMENTATION.md) *(à créer)*
+(https://github.com/FredyHoundayi/Wikipedia-translation-into-local-languages/blob/main/Documentation%20complete%20du%20projet.pdf)
 
 ---
 
@@ -105,7 +107,7 @@ Pour plus de détails consultez la documentation complète du projet ici :
 
 - **Houndayi Fredy**  
   Étudiant en Intelligence Artificielle – IFRI-UAC  
-  Passionné de traitement du langage naturel, traduction automatique et IA pour le développement.
+  Machine Learning Engeneer Enthousiast
 
 ---
 
